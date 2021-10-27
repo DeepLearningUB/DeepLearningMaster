@@ -7,7 +7,7 @@ chardet==2.0.1
 colorama==0.2.5                                                                                             
 configparser==3.5.0                                                                                         
 cycler==0.10.0                                                                                              
-dask==0.12.0                                                                                                
+dask==2021.10.0                                                                                                
 decorator==4.0.10                                                                                           
 entrypoints==0.2.2                                                                                          
 enum34==1.1.6                                                                                               
