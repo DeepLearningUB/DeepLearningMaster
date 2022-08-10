@@ -31,7 +31,7 @@ MarkupSafe==0.23
 matplotlib==1.5.3                                                                                           
 mistune==0.7.3                                                                                              
 mock==2.0.0                                                                                                 
-nbconvert==4.2.0                                                                                            
+nbconvert==6.3.0                                                                                            
 nbformat==4.1.0                                                                                             
 networkx==1.11                                                                                              
 notebook==4.2.3                                                                                             
