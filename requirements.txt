@@ -2,7 +2,7 @@ backports-abc==0.4
 backports.shutil-get-terminal-size==1.0.0                                                                   
 backports.ssl-match-hostname==3.5.0.1                                                                       
 bokeh==0.12.3                                                                                               
-certifi==2016.9.26                                                                                          
+certifi==2022.12.7                                                                                          
 chardet==2.0.1                                                                                              
 colorama==0.2.5                                                                                             
 configparser==3.5.0                                                                                         
